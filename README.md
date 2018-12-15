@@ -11,7 +11,7 @@ In this course, we'll learn how to use the various services from AWS using Pytho
 
 ### 1. Getting Started with AWS ([view](https://www.codingforentrepreneurs.com/courses/aws/getting-started-aws))
 
-### 2. AWS S3 ([view](https://www.codingforentrepreneurs.com/courses/aws/aws-s3) | [repo](https://www.codingforentrepreneurs.com/courses/aws/aws-s3))
+### 2. AWS S3 ([view](https://www.codingforentrepreneurs.com/courses/aws/aws-s3) | [repo](https://github.com/codingforentrepreneurs/Dive-Into-AWS-Course---AWS-S3-Boto3))
 
 ### 3. Route 53 ([view](https://www.codingforentrepreneurs.com/courses/aws/route53))
 
