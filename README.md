@@ -20,3 +20,5 @@ In this course, we'll learn how to use the various services from AWS using Pytho
 ### 5. Django + S3 + Cloudfront ([view](https://www.codingforentrepreneurs.com/courses/aws/django-s3-cloudfront) | [repo](https://github.com/codingforentrepreneurs/Dive-into-AWS-Course----Django-S3-Cloudfront))
 
 ### 6. Reusable Boto3 Utility ([View](https://www.codingforentrepreneurs.com/courses/aws/reusable-boto3-utility) | [Repo](https://github.com/codingforentrepreneurs/Dive-into-AWS-Course---Reusable-Boto-3-Utility))
+
+### 7. Direct to S3 via Django & JavaScript ([View](https://www.codingforentrepreneurs.com/courses/aws/direct-s3-django-javascript) | [Repo](https://github.com/codingforentrepreneurs/Dive-into-AWS-Course---Direct-to-S3-via-Django-JavaScript))
